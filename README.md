@@ -1,10 +1,10 @@
-# TrabajoFinalModulo2
+TrabajoFinalModulo2
 Subasta - Smart Contract
 
-## Descripción
+Descripción
 Contrato inteligente para un sistema de subastas descentralizado implementado en Solidity.
 
-## Características principales
+Características principales
 - Sistema de pujas con incremento mínimo del 5%
 - Comisión del 2% para el owner
 - Mecanismo de extensión automática
